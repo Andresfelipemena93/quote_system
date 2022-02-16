@@ -7,15 +7,6 @@
 ; líneas que comienzan con un ; son ignoradas
 
 
-; Un archivo de configuración
-; que guarda todas las credenciales
-; para cada cosa
-
-; Las líneas en blanco y aquellas que comienzan
-; con un punto y coma (;) son ignoradas
-
-; URL base del proyecto, algo como https://sitio.com
-BASE_URL = "http://localhost/cotizaciones_web_Lirvan"
 
 
 USUARIO_MYSQL = "root"

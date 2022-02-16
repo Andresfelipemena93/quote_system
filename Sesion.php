@@ -2,7 +2,7 @@
 
 /*
 Manejador de sesiones propio
-Recuerda crear una tabla así:
+crear una tabla así:
 
 CREATE TABLE IF NOT EXISTS sesiones(
     id VARCHAR(255) NOT NULL PRIMARY KEY,
